@@ -1,11 +1,18 @@
-# Car Dealership Review Application
+# xrwvm-fullstack_developer_capstone
 
-Final Capstone Project
+## Project Name
+fullstack_developer_capstone
 
-Developed using:
-- Django
-- React
+## Description
+Car Dealership Review Application built as part of IBM Full Stack Developer Capstone Project.
+
+## Technologies Used
+- Django (Backend)
+- React (Frontend)
 - Docker
 - Kubernetes
-- CI/CD GitHub Actions
+- CI/CD with GitHub Actions
 - IBM Cloud
+
+## Repository Name
+xrwvm-fullstack_developer_capstone
